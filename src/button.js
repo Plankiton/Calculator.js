@@ -41,7 +41,6 @@ export default function Button(props){
       }}>
         <Text
           style={{
-            fontFamily: 'Arial',
             fontSize: ((SIZE*0.20)*0.75),
             borderRadius: 6,
             textAlign: 'center',
