@@ -25,11 +25,11 @@ export default function Calc(){
 
     var oper = '*/-+';
 
-    if (value=='('){
+    if (value==='(' && CACHE!==''){
       var char = '*';
       for (var c in oper){
         if ( oper[c] === CACHE.slice(-1)[0] ){
-          char = oper[c];
+          char = '';
         }
       }
       value = char+value;
