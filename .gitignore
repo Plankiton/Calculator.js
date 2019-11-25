@@ -1,4 +1,7 @@
-node_modules/**/*
+yarn.lock
+*.log
+*.lock
+node_modules
 .expo/*
 npm-debug.*
 *.jks
