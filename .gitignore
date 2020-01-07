@@ -1,4 +1,3 @@
-yarn.lock
 *.log
 *.lock
 node_modules
@@ -12,6 +11,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+*.apk
 
 # macOS
 .DS_Store
