@@ -6,7 +6,7 @@ A simple and beautiful calculator for android. Maked in [React Native](https://f
 
 ![Calculator Screen](screenshots/cell_screen.png)
 
-[![Download Calculator.js apk](assets/download_button.svg)](https://github.com/RoboCopGay/Calculator.js/releases)
+[Download APK](https://github.com/RoboCopGay/Calculator.js/releases)
 
 # Install from source
 
